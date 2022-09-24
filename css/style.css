@@ -1,0 +1,30 @@
+:root{
+    --color-white: #f3f3f3;
+    --color-blue: #23395d
+    --color-greeen:#37af65
+}
+
+*::before,*::after{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--color-white);
+    height: 100%;
+    width: 100%;
+    ba
+}
+
+
+.container{
+    max-width: 768px;
+}
+
+
+
+
+.center{
+    text-align: center;
+}
