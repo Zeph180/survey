@@ -94,3 +94,11 @@ textarea {
     border-radius: 2px;
     cursor: pointer;
 }
+
+.radio-input {
+    display: inline-block;
+    margin-right: .65rem;
+    min-height: 1.28rem;
+    min-width: 1.28rem;
+
+}
