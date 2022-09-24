@@ -20,10 +20,18 @@ body {
     background-repeat: no-repeat;
 
 }
+ form {
+    background: var(--color-blue);
+    opacity: .8;
+ }
 
 
 .container{
     max-width: 768px;
+} .age{
+    margin-left: .27rem;
+    font-size: .88rem;
+    color: #e4e4e4;
 }
 
 
