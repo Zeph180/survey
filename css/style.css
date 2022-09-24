@@ -1,7 +1,7 @@
 :root{
     --color-white: #f3f3f3;
-    --color-blue: #23395d
-    --color-greeen:#37af65
+    --color-blue: #23395d;
+    --color-greeen:#37af65;
 }
 
 *::before,*::after{
@@ -15,7 +15,10 @@ body {
     height: 100%;
     width: 100%;
     background: var(--color-blue);
-    
+    background-image:linear-gradient(115deg, rgba(58, 58, 158, 0.8),
+    rgba(136, 136, 206, 0.8)), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-repeat: no-repeat;
+
 }
 
 
